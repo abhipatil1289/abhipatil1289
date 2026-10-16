@@ -2,8 +2,6 @@ Hi there 👋
 
 I'm Abhishek Reddy, a Computer Science Engineering graduate and AI Engineer Intern passionate about Artificial Intelligence and Generative AI.
 
- - 📫 How to reach me: "abhippatil9@gmail.com" (mailto:abhippatil9@gmail.com)
-
 - 🔭 I'm currently working on AI/ML and Generative AI applications at Data Mites.
 - 🌱 I'm currently learning LLMs, Retrieval-Augmented Generation (RAG), and NLP.
 - 🤖 I'm building AI-powered chatbots and intelligent agents using Python and LangChain.
